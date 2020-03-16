@@ -13,7 +13,8 @@ and enemies with every other farmer. Assuming you were to build the signed compl
 of this network, would it be structurally balanced (w.r.t. strong structural balance theory)?
 Explain your answer!
 </p>
-<img src='EnemyFarmers.svg' width=600>
+<img src='EnemyFarmers.svg' width=1000>
+
 <h5>Solution</h5>
 <p>
 Consider, the triangles (5,3,17) and (1,26,49)
@@ -24,3 +25,6 @@ So, We can conclude that the network is not structurally balanced.
 
 </p>
 
+<img src='EnemyFarmers.gif' width=600>
+
+<p> A graphical representation of enmity among 20 farmers. Here, the friendship diameter is 5.
